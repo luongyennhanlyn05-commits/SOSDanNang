@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1795236171813,
+    "name": "hu hu",
+    "phone": "0905452673",
+    "type": "food",
+    "desc": "không có nước uống",
+    "status": "pending",
+    "lat": 16.07068,
+    "lng": 108.1529,
+    "time": "11:42:51",
+    "createdAt": "2026-11-21T04:42:51.848Z"
+  },
+  {
+    "id": 1700000001,
+    "name": "Nguyễn Văn An",
+    "phone": "0905123456",
+    "type": "medical",
+    "desc": "Người già khó thở cần oxy khẩn cấp, nước bắt đầu tràn vào nhà.",
+    "status": "pending",
+    "lat": 16.0611,
+    "lng": 108.2208,
+    "time": "08:30:15"
+  },
+  {
+    "id": 1700000002,
+    "name": "Trần Thị Bình",
+    "phone": "0914987654",
+    "type": "food",
+    "desc": "Gia đình 4 người (có 2 trẻ nhỏ) hết lương thực và nước ngọt ngày thứ 2.",
+    "status": "in_progress",
+    "lat": 16.0289,
+    "lng": 108.1972,
+    "time": "09:15:40"
+  },
+  {
+    "id": 1700000003,
+    "name": "Lê Hoàng Cường",
+    "phone": "0935555666",
+    "type": "isolated",
+    "desc": "Nhà cấp 4 vùng trũng bị ngập sâu hơn 1m, cần ca nô hỗ trợ di dời.",
+    "status": "pending",
+    "lat": 16.0125,
+    "lng": 108.145,
+    "time": "09:45:10"
+  },
+  {
+    "id": 1700000004,
+    "name": "Phạm Thị Dung",
+    "phone": "0905999888",
+    "type": "medical",
+    "desc": "Phụ nữ mang thai tháng thứ 8 có dấu hiệu chuyển dạ, cần cano y tế tiếp cận.",
+    "status": "completed",
+    "lat": 16.082,
+    "lng": 108.2435,
+    "time": "07:10:00"
+  }
+]
